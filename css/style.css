@@ -5,7 +5,33 @@ img {
 .text-center {
     text-align: center;
 }
-.Główny_Blok {
-    width: 75px;
-    height: 75px;
+.główne_logo {
+    width: 120px;
+    height: 60px;
+}
+body {
+    font-family: 'Hind', sans-serif;
+    font-weight: 400;
+    background-color: rgba(245, 252, 232, 0.9);
+}
+.text {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#owca {
+    width: 100%;
+}
+.width250px {
+    width: 50px;
+    height: 50px;
+}
+.zdj {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.bg-img-multi {
+    background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/NDBlog_MPQA_DLC4_960x540.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
 }
