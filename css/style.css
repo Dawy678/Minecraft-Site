@@ -1,6 +1,7 @@
 img {
     width: 100%;
     height: 100%;
+    border-radius: 1%;
 }
 .text-center {
     text-align: center;
@@ -12,26 +13,30 @@ img {
 body {
     font-family: 'Hind', sans-serif;
     font-weight: 400;
-    background-color: rgba(245, 252, 232, 0.9);
+    background-image: url(../photos/The\ Last\ of\ Us\ Part\ 2\ \ \ 38\ 4K\ ScreenshotsWallpapers\ r.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
 }
 .text {
     text-align: center;
-    margin-left: 250px;
-    margin-right: 250px;
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3.5%;
 }
-#owca {
+.galeriah {
+    margin-top: 10px;
     width: 100%;
 }
-.width250px {
-    width: 50px;
-    height: 50px;
+iframe {
+    border-radius: 2%;
 }
-.zdj {
-    margin-left: 250px;
-    margin-right: 250px;
-}
-.bg-img-multi {
-    background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/NDBlog_MPQA_DLC4_960x540.jpg);
-    background-repeat: no-repeat;
-    width: 100%;
+#rodzaje {
+    border-top: 1px solid rgba(5, 5, 5, 0.61) ;
+    border-radius: 10%;
+    padding-top: 10px;
 }
